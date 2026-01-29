@@ -2,33 +2,31 @@
   {
     "title": "北海岸一日騎旅",
     "date": "2026-01-15",
-    "image": "https://via.placeholder.com/720x400?text=北海岸+一日騎旅",
-    "description": "分享當天騎乘心得與沿途風景…"
-  },
-  {
-    "title": "淡水河騎乘",
-    "date": "2026-01-20",
-    "image": "https://via.placeholder.com/720x400?text=淡水河騎乘",
-    "description": "沿著河邊騎，享受微風和陽光。"
-  }
-]
-[
-  {
-    "title": "北海岸一日騎旅",
-    "date": "2026-01-15",
-    "image": "https://via.placeholder.com/720x400?text=北海岸+一日騎旅",
+    "image": "images/beach-ride.jpg",
     "description": "沿途風景超美，騎車超放鬆，陽光、海風和機車相伴，完美的一天。"
   },
   {
     "title": "淡水河騎乘",
     "date": "2026-01-20",
-    "image": "https://via.placeholder.com/720x400?text=淡水河騎乘",
+    "image": "images/tamsui-river.jpg",
     "description": "沿著河邊騎，微風徐徐，享受慢慢騎的感覺。"
   },
   {
     "title": "夕陽下的山路",
     "date": "2026-01-25",
-    "image": "https://via.placeholder.com/720x400?text=夕陽下的山路",
+    "image": "images/sunset-mountain.jpg",
     "description": "黃昏時分的山路，夕陽和風景一起入鏡，騎乘真的療癒。"
+  },
+  {
+    "title": "海邊日出騎行",
+    "date": "2026-01-27",
+    "image": "images/sunrise-ride.jpg",
+    "description": "早晨的海邊，空氣清新，騎車看日出，充滿活力的一天。"
+  },
+  {
+    "title": "城市夜騎",
+    "date": "2026-01-28",
+    "image": "images/night-city.jpg",
+    "description": "夜晚城市燈光與機車共舞，感受不一樣的騎乘氛圍。"
   }
 ]
